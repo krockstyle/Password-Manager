@@ -2,8 +2,6 @@
 A basic password manager for your company
 be able to encrypt your password but at the same time see your employees' username.
 
-[Start]
-
 * Load the key file
 * Create a Fernet object with the key
 * Prompt the user for the mode
@@ -20,5 +18,3 @@ be able to encrypt your password but at the same time see your employees' userna
 * If the mode is invalid:
     * Print an error message
 * Repeat
-
-[End]
